@@ -1,0 +1,6 @@
+spawn/place block: space
+move block left/right/up: arrow keys
+rotate: q
+time powerup: c
+skip block powerup: v
+pause/play music: p
