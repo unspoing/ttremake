@@ -1,3 +1,5 @@
+da controls!
+
 spawn/place block: space
 move block left/right/up: arrow keys
 rotate: q
