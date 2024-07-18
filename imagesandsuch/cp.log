@@ -1,9 +1,0 @@
-INFO: Platform: win32
-INFO: Version Info: v0.3.0
-DEBUG: Log Path: cp.log
-DEBUG: command: ['python', 'C:\\Users\\unspo\\OneDrive\\cp12\\tt\\trickytowers.py']
-DEBUG: file: None
-DEBUG: pause: True
-DEBUG: repl: python
-DEBUG: args: ['C:\\Users\\unspo\\OneDrive\\cp12\\tt\\trickytowers.py']
-INFO: return code: 3221225786 (0xc000013a)
